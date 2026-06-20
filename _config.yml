@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu Qian (钱煜)"
-description              : "Ph.D. Student in Electronic Science and Technology"
-repository               : "jerry-chandler/jerry-chandler.github.io"
+title                    : "Bo Li (李博)"
+description              : "Associate Professor in Xidian University Hangzou Institute of Technology"
+repository               : "ScholarBoLi/ScholarBoLi.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  RoH8vVYAAAAJ
+google_analytics_id      :  #RoH8vVYAAAAJ
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  #fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : #56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Yu Qian (钱煜)"
+  name             : "Bo Li (李博)"
   avatar           : "images/myphoto.png"
-  bio              : "Zhejiang University"
+  bio              : "Xidian University"
   location         : "Hangzhou, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : "Hangzhou Institute of Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com//citations?user=RoH8vVYAAAAJ"
-  email            : "jerry_chandler@zju.edu.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : #"https://scholar.google.com//citations?user=RoH8vVYAAAAJ"
+  email            : "libo@xidian.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Bo-Li-30"
   uri              : 
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-0885-2748"
+  orcid            : "https://orcid.org/0000-0002-9510-1087"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
