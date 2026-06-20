@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "About me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Selected Honors and Awards"
+    url: "/#-honors"
+
+  - title: "Academic Service"
+    url: "/#-service"
+
+  - title: "Invited Talks"
+    url: "/#-talk"
+
+  - title: "Athlete Performance"
+    url: "/#-athlete"
+
+  - title: "Educations"
+    url: "/#-educations"
+    
+  - title: "Specialties and Hobbies"
+    url: "/#-hobby"
