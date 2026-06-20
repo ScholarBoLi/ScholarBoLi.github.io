@@ -16,14 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-/*
+<!--
 I'm a fourth year Ph.D candidate at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), Hangzhou, China, advised by Prof. [Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin). My research interests include compute-in-memory circuit/system design and software-hardware co-design for acceleration of content addressable memory (CAM), neural network (NN) and combinatorial optimization problems (COPs). 
 
 I have published several [papers](https://scholar.google.com/citations?user=RoH8vVYAAAAJ) in top journals and conference proceedings including Nature Communications, IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Design Automation Conference (DAC), Design Automation and Test in Europe (DATE),  Asia and South Pacific Design Automation Conference (ASP-DAC), etc. 
-*/
+-->
 
-//<span class='anchor' id='-news'></span>
-
+<span class='anchor' id='-news'></span>
+<!--
 # 🔥 News
 - *2025.10*, our paper is accepted by JEIT! Congratulations to all!
 - *2025.02*, our paper is accepted by TCAS-I! Congratulations to all!
@@ -32,7 +32,7 @@ I have published several [papers](https://scholar.google.com/citations?user=RoH8
 - *2024.05*, our paper is accepted by TVLSI! Congratulations to all!
 - *2024.03*, our paper is published on Nature Communications! Congratulations to all! The paper is available at [https://www.nature.com/articles/s41467-024-46640-x](https://www.nature.com/articles/s41467-024-46640-x).
 - *2024.02*, three papers are accepted by DAC 2024! Congratulations to all!
-
+-->
  
 <span class='anchor' id='-publications'></span>
 
