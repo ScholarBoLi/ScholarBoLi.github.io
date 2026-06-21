@@ -28,8 +28,8 @@ redirect_from:
 # 📝 Publications
 ## 📚 Journal Papers
 
-###2026
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> J8 TCAD-2 </span> **Bo Li**, Junfeng Tan, Can Liu, Kai Chen, Tingjie Yang, Huanning Zhang, Xueyang Bai, Wei Mao, Jiuren Zhou, Xiao Yu, Ran Cheng, Guoyong Shi, BingChen, Yan Liu and Genquan Han, "Collaborative Design of FeRAM via A Joint Ferroelectric Device and Circuit Analysis", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 45, no. 3, pp. 1129-1133, 2026.
+**2026**
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> [J8]|[TCAD 2] </span> **Bo Li**, Junfeng Tan, Can Liu, Kai Chen, Tingjie Yang, Huanning Zhang, Xueyang Bai, Wei Mao, Jiuren Zhou, Xiao Yu, Ran Cheng, Guoyong Shi, BingChen, Yan Liu and Genquan Han, "Collaborative Design of FeRAM via A Joint Ferroelectric Device and Circuit Analysis", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 45, no. 3, pp. 1129-1133, 2026.
 
 ## 📚 Conference Papers
 
