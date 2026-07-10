@@ -57,14 +57,16 @@ redirect_from:
 - *2010.09 - 2013.06*, Shanghai University, Shanghai, China, M.Sci., Condensed Mater Physics
 - *2006.09 - 2010.06*, Harbin University of Science and Technology, Harbin, China, B.Eng., Electronic Science and Technology
 
+
+
+<div style="display:none">
+
+
 <span class='anchor' id='-honors'></span>
 
 # 🎖️ Selected Honors and Awards
 
 
-
-
-<div style="display:none">
 
 <span class='anchor' id='-talk'></span> 
 
