@@ -34,7 +34,7 @@ redirect_from:
 
 ### **2025**
 
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J8\] </span> Can Liu, Zhihao Shen, Wei Mao*, **Bo Li***, Xiaomeng Lv, Fuyi Li, Peng Xiao, Haiqiao Hong, Shirui Zhao, Siying Zheng, Xiaoxi Li, Xiao Yu, Jiuren Zhou, BingChen, Yan Liu and Genquan Han, "A Parallel Computing-in-Memory Accelerator Utilizing FeRAM Array with Retention Loss Correction", SCIENCE CHINA Information Sciences (SCIS), vol. 68, no. 6, pp. 1-2, 2025.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J7\] </span> Can Liu, Zhihao Shen, Wei Mao*, **Bo Li***, Xiaomeng Lv, Fuyi Li, Peng Xiao, Haiqiao Hong, Shirui Zhao, Siying Zheng, Xiaoxi Li, Xiao Yu, Jiuren Zhou, BingChen, Yan Liu and Genquan Han, "A Parallel Computing-in-Memory Accelerator Utilizing FeRAM Array with Retention Loss Correction", SCIENCE CHINA Information Sciences (SCIS), vol. 68, no. 6, pp. 1-2, 2025.
 
 ## 📚 Conference Papers
 
