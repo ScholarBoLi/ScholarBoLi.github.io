@@ -38,11 +38,6 @@ redirect_from:
 
 ## 📚 Conference Papers
 
-
-<span class='anchor' id='-educations'></span>
-
-
-
 <span class='anchor' id='-service'></span>
 
 # 🏆️ Academic Service
@@ -50,6 +45,9 @@ redirect_from:
 - Conference Special Session Co-Chair: AICAS *2026*
 - Journal Reviewer: TCAD,TODAES,Integration,TNNLS
 
+
+
+<span class='anchor' id='-educations'></span>
 
 # 🎓 Educations
 
