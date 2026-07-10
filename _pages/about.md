@@ -60,24 +60,24 @@ redirect_from:
 <div style="display:none">
 
 
-[//]:#<span class='anchor' id='-honors'></span>
+[//]:#(<span class='anchor' id='-honors'></span>)
 
 # 🎖️ Selected Honors and Awards
 
 
 
-[//]: #<span class='anchor' id='-talk'></span> 
+[//]: #(<span class='anchor' id='-talk'></span>)
 
 # 🪑 Invited Talks 
 
 
-[//]:#<span class='anchor' id='-athlete'></span>
+[//]:#(<span class='anchor' id='-athlete'></span>)
 
 # 🏆️ Athlete Performance
 
 
 
-[//]:#<span class='anchor' id='-hobby'></span>
+[//]:#"<span class='anchor' id='-hobby'></span>"
 
 # 🏃 Specialties and Hobbies 
 
