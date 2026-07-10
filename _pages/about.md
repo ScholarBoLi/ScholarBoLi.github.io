@@ -25,7 +25,7 @@ redirect_from:
  
 <span class='anchor' id='-publications'></span>
 
-# 📝 Publications
+# ✍🏻 Publications
 ## 📚 Journal Papers
 
 ### **2026**
@@ -39,6 +39,24 @@ redirect_from:
 ## 📚 Conference Papers
 
 
+<span class='anchor' id='-educations'></span>
+
+
+
+<span class='anchor' id='-service'></span>
+
+# 🏆️ Academic Service
+- Conference Special Session Co-Chair: ISCAS *2026*
+- Conference Special Session Co-Chair: AICAS *2026*
+- Journal Reviewer: TCAD,TODAES,Integration,TNNLS
+
+
+# 🎓 Educations
+
+- *2015.09 - 2023.09*, Shanghai Jiao Tong University, Shanghai, China, Ph.D., Electronic Science and Technology
+- *2010.09 - 2013.06*, Shanghai University, Shanghai, China, M.Sci., Condensed Mater Physics
+- *2006.09 - 2010.06*, Harbin University of Science and Technology, Harbin, China, B.Eng., Electronic Science and Technology
+
 <span class='anchor' id='-honors'></span>
 
 # 🎖️ Selected Honors and Awards
@@ -46,16 +64,11 @@ redirect_from:
 
 
 
-<span class='anchor' id='-service'></span>
+<div style="display:none">
 
-# ✍🏻 Academic Service
-- Conference Special Session Co-Chair: ISCAS *2026*
-- Conference Special Session Co-Chair: AICAS *2026*
-- Journal Reviewer: TCAD,TODAES,Integration,TNNLS
+<span class='anchor' id='-talk'></span> 
 
-{% <span class='anchor' id='-talk'></span> %}
-
-{% # 🪑 Invited Talks %}
+# 🪑 Invited Talks 
 
 
 <span class='anchor' id='-athlete'></span>
@@ -63,18 +76,12 @@ redirect_from:
 # 🏆️ Athlete Performance
 
 
-<span class='anchor' id='-educations'></span>
 
-# 🎓 Educations
-
-- *2015.09 - 2023.09*, Shanghai Jiao Tong University, Shanghai, China, Ph.D., Electronic Science and Technology
-- *2010.09 - 2013.06*, Shanghai University, Shanghai, China, M.Sci., Condensed Mater Physics
-- *2006.09 - 2010.06*, Harbin University of Science and Technology, Harbin, China, B.Eng., Electronic Science and Technology
 <span class='anchor' id='-hobby'></span>
 
-{% # 🏃 Specialties and Hobbies %}
+# 🏃 Specialties and Hobbies 
 
-
+</div>
 
 
 
