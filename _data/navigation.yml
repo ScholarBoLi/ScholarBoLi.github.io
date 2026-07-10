@@ -9,20 +9,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Selected Honors and Awards"
-    url: "/#-honors"
-
   - title: "Academic Service"
     url: "/#-service"
-
-  - title: "Invited Talks"
-    url: "/#-talk"
-
-  - title: "Athlete Performance"
-    url: "/#-athlete"
 
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Specialties and Hobbies"
-    url: "/#-hobby"
+  #- title: "Honors and Awards"
+  #  url: "/#-honors"
+
+  #- title: "Invited Talks"
+  #  url: "/#-talk"
+   
+  #- title: "Hobbies"
+  #  url: "/#-hobby"
