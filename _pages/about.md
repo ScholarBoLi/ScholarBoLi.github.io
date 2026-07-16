@@ -36,7 +36,7 @@ redirect_from:
 
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J7\]</span> Cheng Zhang, Xingyu Zhu, Longhao Chen, Tingjie Yang, Evens Pan, Guosheng Yu, Yang Zhao, Xiguang Wu, **Bo Li**\*, Wei Mao\*, and Genquan Han, "Enhancing LLM Inference Performance on ARM CPUs Through Software and Hardware Co-Optimization Strategies", Integrated Circuits and Systems, vol. 2, no. 2, pp. 49-57, 2025.
 
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J6\]</span> Xuecheng Cui, Jiabao Ye, Bing Chen\*, Haoran Yu, Dong Liu, Bo Li, Jiuren Zhou, Ran Cheng, Xiao Yu, Yan Liu, and Genquan Han, "FRAM Array: A Device and Circuit Interaction Study at Advanced Technology Nodes", IEEE Transactions on Electron Devices (TED), vol. 72, no. 2, pp. 640-645, 2025.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J6\]</span> Xuecheng Cui, Jiabao Ye, Bing Chen\*, Haoran Yu, Dong Liu, **Bo Li**, Jiuren Zhou, Ran Cheng, Xiao Yu, Yan Liu, and Genquan Han, "FRAM Array: A Device and Circuit Interaction Study at Advanced Technology Nodes", IEEE Transactions on Electron Devices (TED), vol. 72, no. 2, pp. 640-645, 2025.
 
 ### **2024**
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J5\]</span> Ran Cheng, **Bo Li**, Zongwei Wang, Jieyin Zhang, Weiwei Shan, Jianjun Zhang, Yimao Cai, and Genquan Han\* , "Low-temperature CMOS Technology for High-Performance Computing: Development and Challenges", Science China Information Sciences (SCIS), vol. 54, no. 1, pp. 88-101, 2024.
