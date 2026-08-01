@@ -29,29 +29,39 @@ redirect_from:
 ## 📚 Journal Papers
 
 ### **2026**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J9\]</span> **Bo Li**, Junfeng Tan, Can Liu, Kai Chen, Tingjie Yang, Huanning Zhang, Xueyang Bai, Wei Mao\*, Jiuren Zhou, Xiao Yu, Ran Cheng, Guoyong Shi\*, BingChen\*, Yan Liu, and Genquan Han, "Collaborative Design of FeRAM via A Joint Ferroelectric Device and Circuit Analysis," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 45, no. 3, pp. 1129-1133, 2026.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J4\]</span>Mingzhen Li, **Bo Li** and Guoyong Shi\*, "Compensation-Aware Topology Synthesis of Multistage Op-Amps," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026 (Accepted).
+
+
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J12\]</span>Junfeng Tan,  **Bo Li**\*, "Towards Automatic Analog Circuit Design via GA-enhanced Deep Reinforcement Learning," Integration, 2026 (Accepted).
+
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J11\]</span>Zhenhao Wang, Jialong Wang, Xuhui Du,
+Yingjie Zhao, Xiaoxi Li\*, **Bo Li**, Yong Wang, Xian Ding, Fan Jiang, Shirui Zhao, Yan Liu, Wei Mao\*, and Genquan Han, "Descriptor: Arc Image Dataset for Power Grid Fault Detection (PG-ArcSet)," in IEEE Data Descriptions, 2026 (Early Access).
+
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J10\]</span> **Bo Li**, Junfeng Tan, Can Liu, Kai Chen, Tingjie Yang, Huanning Zhang, Xueyang Bai, Wei Mao\*, Jiuren Zhou, Xiao Yu, Ran Cheng, Guoyong Shi\*, BingChen\*, Yan Liu, and Genquan Han, "Collaborative Design of FeRAM via A Joint Ferroelectric Device and Circuit Analysis," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 45, no. 3, pp. 1129-1133, 2026.
 
 ### **2025**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J8\]</span> Can Liu, Zhihao Shen, Wei Mao\*, **Bo Li**\*, Xiaomeng Lv, Fuyi Li, Peng Xiao, Haiqiao Hong, Shirui Zhao, Siying Zheng, Xiaoxi Li, Xiao Yu, Jiuren Zhou, BingChen, Yan Liu, and Genquan Han, "A Parallel Computing-in-Memory Accelerator Utilizing FeRAM Array with Retention Loss Correction," Science China Information Sciences (SCIS), vol. 68, no. 6, pp. 1-2, 2025.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J9\]</span> Can Liu, Zhihao Shen, Wei Mao\*, **Bo Li**\*, Xiaomeng Lv, Fuyi Li, Peng Xiao, Haiqiao Hong, Shirui Zhao, Siying Zheng, Xiaoxi Li, Xiao Yu, Jiuren Zhou, BingChen, Yan Liu, and Genquan Han, "A Parallel Computing-in-Memory Accelerator Utilizing FeRAM Array with Retention Loss Correction," Science China Information Sciences (SCIS), vol. 68, no. 6, pp. 1-2, 2025.
 
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J7\]</span> Cheng Zhang, Xingyu Zhu, Longhao Chen, Tingjie Yang, Evens Pan, Guosheng Yu, Yang Zhao, Xiguang Wu, **Bo Li**\*, Wei Mao\*, and Genquan Han, "Enhancing LLM Inference Performance on ARM CPUs Through Software and Hardware Co-Optimization Strategies," Integrated Circuits and Systems, vol. 2, no. 2, pp. 49-57, 2025.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J8\]</span> Cheng Zhang, Xingyu Zhu, Longhao Chen, Tingjie Yang, Evens Pan, Guosheng Yu, Yang Zhao, Xiguang Wu, **Bo Li**\*, Wei Mao\*, and Genquan Han, "Enhancing LLM Inference Performance on ARM CPUs Through Software and Hardware Co-Optimization Strategies," Integrated Circuits and Systems, vol. 2, no. 2, pp. 49-57, 2025.
 
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J6\]</span> Xuecheng Cui, Jiabao Ye, Bing Chen\*, Haoran Yu, Dong Liu, **Bo Li**, Jiuren Zhou, Ran Cheng, Xiao Yu, Yan Liu, and Genquan Han, "FRAM Array: A Device and Circuit Interaction Study at Advanced Technology Nodes," IEEE Transactions on Electron Devices (TED), vol. 72, no. 2, pp. 640-645, 2025.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J7\]</span> Xuecheng Cui, Jiabao Ye, Bing Chen\*, Haoran Yu, Dong Liu, **Bo Li**, Jiuren Zhou, Ran Cheng, Xiao Yu, Yan Liu, and Genquan Han, "FRAM Array: A Device and Circuit Interaction Study at Advanced Technology Nodes," IEEE Transactions on Electron Devices (TED), vol. 72, no. 2, pp. 640-645, 2025.
 
 ### **2024**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J5\]</span> Ran Cheng, **Bo Li**, Zongwei Wang, Jieyin Zhang, Weiwei Shan, Jianjun Zhang, Yimao Cai, and Genquan Han\* , "Low-temperature CMOS Technology for High-Performance Computing: Development and Challenges," Science China Information Sciences (SCIS), vol. 54, no. 1, pp. 88-101, 2024.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J6\]</span> Ran Cheng, **Bo Li**, Zongwei Wang, Jieyin Zhang, Weiwei Shan, Jianjun Zhang, Yimao Cai, and Genquan Han\* , "Low-temperature CMOS Technology for High-Performance Computing: Development and Challenges," Science China Information Sciences (SCIS), vol. 54, no. 1, pp. 88-101, 2024.
 
 ### **2023**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J4\]</span> **Bo Li**, Qixu Xie, and Guoyong Shi\*, "A Memristor Crossbar-based Lyapunov Equation Solver," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 11, pp. 4324-4328, 2023.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J5\]</span> **Bo Li**, Qixu Xie, and Guoyong Shi\*, "A Memristor Crossbar-based Lyapunov Equation Solver," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 11, pp. 4324-4328, 2023.
 
 ### **2022**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J3\]</span> **Bo Li** and Guoyong Shi\*, "A Native SPICE Implementation of Memristor Models for Simulation of Neuromorphic Analog Signal Processing Circuits," ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 27, no. 1, Article 6, 2022.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J4\]</span> **Bo Li** and Guoyong Shi\*, "A Native SPICE Implementation of Memristor Models for Simulation of Neuromorphic Analog Signal Processing Circuits," ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 27, no. 1, Article 6, 2022.
 
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J2\]</span> **Bo Li** and Guoyong Shi\*, "A CMOS Rectified Linear Unit Operating in Weak Inversion for Memristive Neuromorphic Circuits," Integration, vol. 87, pp. 24-28, 2022.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J3\]</span> **Bo Li** and Guoyong Shi\*, "A CMOS Rectified Linear Unit Operating in Weak Inversion for Memristive Neuromorphic Circuits," Integration, vol. 87, pp. 24-28, 2022.
 
 ### **2019**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J1\]</span> **Bo Li**, Yonglei Zhao, and Guoyong Shi\*, "A Novel Design of Memristor-based Bidirectional Associative Memory Circuits Using Verilog-AMS," Neurocomputing, vol. 33, pp. 437-448, 2019.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J2\]</span> **Bo Li**, Yonglei Zhao, and Guoyong Shi\*, "A Novel Design of Memristor-based Bidirectional Associative Memory Circuits Using Verilog-AMS," Neurocomputing, vol. 33, pp. 437-448, 2019.
 
+### **2013**
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J1\]</span> Liming Yu\*, **Bo Li**, Leimei Sheng, Kang An, and Xinluo Zhao\*, "The Microwave Absorbing Properties of SmCo Attached Single Wall Carbon Nanotube/Epoxy Composites," Journal of Alloys and Compounds, vol. 575, pp. 123-127, 2013.
 
 ## 📚 Conference Papers
 
@@ -97,7 +107,7 @@ redirect_from:
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">\[C4\]</span> Junfeng Tan, Guosheng Yu, Jianing Li, Xiaohan Ma, Fang Bao, Evens Pan, David Bian, Yongfu Li\*, Yuan Du\*, Li Du\*, **Bo Li**\*, Wei Mao\*, "AICAS Grand Challenge 2024: Software and Hardware Co-optimization for General Large Language Model Inference on CPU," in Proc. IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2024.
 
 ### **2023**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">\[C3\]</span> **Bo Li** and G. Shi, "Transient Noise Simulation Method for Memristor Circuits with Applications," in Proc. International Symposium of Electronics Design Automation (ISEDA), 2023.
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">\[C3\]</span> **Bo Li** and Guoyong Shi, "Transient Noise Simulation Method for Memristor Circuits with Applications," in Proc. International Symposium of Electronics Design Automation (ISEDA), 2023.
 
 ### **2021**
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">\[C2\]</span> **Bo Li**, Mingjie Yang, and Guoyong Shi, "Design of Analog CMOS-Memristive Neural Network Circuits for Pattern Recognition," in Proc. IEEE International Conference on ASIC (ASICON), 2021.
