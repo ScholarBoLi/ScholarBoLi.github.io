@@ -29,7 +29,7 @@ redirect_from:
 ## 📚 Journal Papers
 
 ### **2026**
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J4\]</span>Mingzhen Li, **Bo Li** and Guoyong Shi\*, "Compensation-Aware Topology Synthesis of Multistage Op-Amps," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026 (Accepted).
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J13\]</span>Mingzhen Li, **Bo Li** and Guoyong Shi\*, "Compensation-Aware Topology Synthesis of Multistage Op-Amps," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026 (Accepted).
 
 
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;"> \[J12\]</span>Junfeng Tan,  **Bo Li**\*, "Towards Automatic Analog Circuit Design via GA-enhanced Deep Reinforcement Learning," Integration, 2026 (Accepted).
